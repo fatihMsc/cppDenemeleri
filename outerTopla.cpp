@@ -1,3 +1,5 @@
+cppDenemeleri/callAnotherConstructor/header/outerTopla
+
 #include<iostream>
 #include "outerTopla.h"
 
@@ -5,7 +7,7 @@ using namespace deneme;
 
 outerTopla::outerTopla(int id){
 	//outer=new outerTopla();
-	std::cout<<"constructor baþladý:"<<id<<std::endl;
+	std::cout<<"constructor baÃ¾ladÃ½:"<<id<<std::endl;
 }
 
 
