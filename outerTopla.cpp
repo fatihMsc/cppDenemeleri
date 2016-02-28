@@ -1,4 +1,4 @@
-cppDenemeleri/callAnotherConstructor/header/outerTopla
+cppDenemeleri/callAnotherConstructor/outerTopla
 
 #include<iostream>
 #include "outerTopla.h"
