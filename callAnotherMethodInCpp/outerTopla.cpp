@@ -5,7 +5,7 @@ using namespace deneme;
 
 outerTopla::outerTopla(int id){
 	abc=new topla(3);
-	std::cout<<"constructor baþladý:"<<id<<std::endl;
+	std::cout<<"constructor baÃ¾ladÃ½:"<<id<<std::endl;
 }
 
 
